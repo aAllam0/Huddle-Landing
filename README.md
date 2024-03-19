@@ -1,11 +1,11 @@
-# Frontend Mentor - Blog preview page
+# Frontend Mentor - Huddle Landing page
 
 ![](images/huddle-landing.png)
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: [Front-end Mentor](https://www.frontendmentor.io/solutions/responsive-page-using-css-flex-WmOX9XEtFU)
+- Live Site URL: (https://aallam0.github.io/Huddle-Landing)
 
 ### Author
 
